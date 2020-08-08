@@ -1,0 +1,22 @@
+C:\Users\HakanBey\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\bin\Debug\Kırtasiye Barkod Programı.exe.config
+C:\Users\HakanBey\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\bin\Debug\Kırtasiye Barkod Programı.exe
+C:\Users\HakanBey\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\bin\Debug\Kırtasiye Barkod Programı.pdb
+C:\Users\HakanBey\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye Barkod Programı.csprojAssemblyReference.cache
+C:\Users\HakanBey\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye_Barkod_Programı.Properties.Resources.resources
+C:\Users\HakanBey\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye Barkod Programı.csproj.GenerateResource.cache
+C:\Users\HakanBey\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye Barkod Programı.csproj.CoreCompileInputs.cache
+C:\Users\HakanBey\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye Barkod Programı.exe
+C:\Users\HakanBey\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye Barkod Programı.pdb
+C:\Users\HakanBey\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye_Barkod_Programı.frm_homepage.resources
+C:\Users\HakanBey\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye_Barkod_Programı.forms.frm_satisyap.resources
+E:\Hakan Bilgisayar Yedek\Disk D\Format Yedek Masaüstü\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\bin\Debug\Kırtasiye Barkod Programı.exe.config
+E:\Hakan Bilgisayar Yedek\Disk D\Format Yedek Masaüstü\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\bin\Debug\Kırtasiye Barkod Programı.exe
+E:\Hakan Bilgisayar Yedek\Disk D\Format Yedek Masaüstü\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\bin\Debug\Kırtasiye Barkod Programı.pdb
+E:\Hakan Bilgisayar Yedek\Disk D\Format Yedek Masaüstü\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye Barkod Programı.csprojAssemblyReference.cache
+E:\Hakan Bilgisayar Yedek\Disk D\Format Yedek Masaüstü\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye_Barkod_Programı.frm_homepage.resources
+E:\Hakan Bilgisayar Yedek\Disk D\Format Yedek Masaüstü\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye_Barkod_Programı.forms.frm_satisyap.resources
+E:\Hakan Bilgisayar Yedek\Disk D\Format Yedek Masaüstü\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye_Barkod_Programı.Properties.Resources.resources
+E:\Hakan Bilgisayar Yedek\Disk D\Format Yedek Masaüstü\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye Barkod Programı.csproj.GenerateResource.cache
+E:\Hakan Bilgisayar Yedek\Disk D\Format Yedek Masaüstü\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye Barkod Programı.csproj.CoreCompileInputs.cache
+E:\Hakan Bilgisayar Yedek\Disk D\Format Yedek Masaüstü\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye Barkod Programı.exe
+E:\Hakan Bilgisayar Yedek\Disk D\Format Yedek Masaüstü\source\repos\Kırtasiye Barkod Programı\Kırtasiye Barkod Programı\obj\Debug\Kırtasiye Barkod Programı.pdb
